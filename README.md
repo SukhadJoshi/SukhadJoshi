@@ -57,7 +57,7 @@ I build practical AI systems that actually get used. Lately I’ve been working 
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000" />
 </p>
 
-[Portfolio](https://sukhadjoshi.github.io/) • [LinkedIn](https://www.linkedin.com/in/sukhadjoshi/) • [Manuscript Pubication](https://ar5iv.org/abs/2601.07801) • Email • [GitHub](https://github.com/SukhadJoshi)
+[Portfolio](https://sukhadjoshi.github.io/) • [LinkedIn](https://www.linkedin.com/in/sukhadjoshi/) • [Manuscript Pubication](https://ar5iv.org/abs/2601.07801) • [Email](joshi.sukhad22@gmail.com) • [GitHub](https://github.com/SukhadJoshi)
 
 ---
 
@@ -66,13 +66,6 @@ I build practical AI systems that actually get used. Lately I’ve been working 
 - MS Applied Data Science, Syracuse University (May 2025)
 - Building AI-powered automation systems (FastMCP)
 - Experience with recommendation systems, ETL pipelines (Snowflake + dbt), and analytics dashboards
-- Interests: LLM systems, explainability, and production-ready AI tools
+- Interests: ML Systems, LLMs and production-ready AI tools
 
----
 
-## Featured projects
-
-- AI Lab Automation (FastMCP + Claude + QCoDeS): conversational control and automation for experiments
-- Music Recommendation Engine: Python + SQL, improved preferences across 50K+ songs
-- Health Blog Credibility (XGBoost + SHAP + PageRank): explainable scoring for credibility
-- LLaMA Blog Generator (RAG + Streamlit + LangChain): fast long-form generation with retrieval
