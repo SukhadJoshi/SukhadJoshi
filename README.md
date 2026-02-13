@@ -1,11 +1,18 @@
 <h1 align="center">Hi, I’m Sukhad Joshi 👋</h1>
 <p align="center">
 Applied ML • Research • ML Systems and Automation
-[Portfolio](https://sukhadjoshi.github.io/) • [LinkedIn](https://www.linkedin.com/in/sukhadjoshi/) • [Manuscript Pubication](https://ar5iv.org/abs/2601.07801) • [Email](mailto:joshi.sukhad22@gmail.com) • [GitHub](https://github.com/SukhadJoshi)
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="900" />
+  <a href="https://sukhadjoshi.github.io/">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/sukhadjoshi/">LinkedIn</a> •
+  <a href="https://ar5iv.org/abs/2601.07801">Manuscript Publication</a> •
+  <a href="mailto:joshi.sukhad22@gmail.com">Email</a> •
+  <a href="https://github.com/SukhadJoshi">GitHub</a>
+</p>
+
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnVqdWhwYWlidHM3eHE1a2ZrdmFmbXhxY3U1Z2lvNDd4bmtrZXozZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZkVIzvAEUA4ISI6WpO/giphy.gif" width="500" />
 </p>
 
 I build practical AI systems that actually get used. Lately I’ve been working on automation tools and LLM workflows that turn messy, manual processes into something fast and repeatable.
