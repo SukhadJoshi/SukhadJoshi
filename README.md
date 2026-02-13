@@ -74,8 +74,9 @@ I build practical AI systems that actually get used. Lately I’ve been working 
 
 ## About me
 
-- MS Applied Data Science, Syracuse University (May 2025)
-- Building AI-powered automation systems (FastMCP)
+- Research@Syracuse
+- MS Applied Data Science, Syracuse University
+- Building AI-powered automation systems
 - Experience with recommendation systems, ETL pipelines (Snowflake + dbt), and analytics dashboards
 - Interests: ML Systems, LLMs and production-ready AI tools
 
