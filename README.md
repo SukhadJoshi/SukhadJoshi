@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I’m Sukhad Joshi 👋</h1>
+<h1 align="center">Hi 👋 , I’m Sukhad Joshi (Talk Data to Me) </h1>
 <p align="center">
 Applied ML • Research • ML Systems and Automation
 </p>
@@ -12,7 +12,7 @@ Applied ML • Research • ML Systems and Automation
 </p>
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnVqdWhwYWlidHM3eHE1a2ZrdmFmbXhxY3U1Z2lvNDd4bmtrZXozZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZkVIzvAEUA4ISI6WpO/giphy.gif" width="500" />
+  <img src="./GitHubBanner.gif" width="500" height="400" />
 </p>
 
 I build practical AI systems that actually get used. Lately I’ve been working on automation tools and LLM workflows that turn messy, manual processes into something fast and repeatable.
