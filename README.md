@@ -1,6 +1,11 @@
 <h1 align="center">Hi, I’m Sukhad Joshi 👋</h1>
 <p align="center">
 Applied ML • Research • ML Systems and Automation
+[Portfolio](https://sukhadjoshi.github.io/) • [LinkedIn](https://www.linkedin.com/in/sukhadjoshi/) • [Manuscript Pubication](https://ar5iv.org/abs/2601.07801) • [Email](mailto:joshi.sukhad22@gmail.com) • [GitHub](https://github.com/SukhadJoshi)
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="900" />
 </p>
 
 I build practical AI systems that actually get used. Lately I’ve been working on automation tools and LLM workflows that turn messy, manual processes into something fast and repeatable.
@@ -57,7 +62,6 @@ I build practical AI systems that actually get used. Lately I’ve been working 
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000" />
 </p>
 
-[Portfolio](https://sukhadjoshi.github.io/) • [LinkedIn](https://www.linkedin.com/in/sukhadjoshi/) • [Manuscript Pubication](https://ar5iv.org/abs/2601.07801) • [Email](joshi.sukhad22@gmail.com) • [GitHub](https://github.com/SukhadJoshi)
 
 ---
 
