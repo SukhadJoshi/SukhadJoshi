@@ -12,7 +12,7 @@ Applied ML • Research • ML Systems and Automation
 </p>
 
 <p align="center">
-  <img src="./GitHubBanner.gif" width="250" height="250" />
+  <img src="./GitHubBanner1.gif" width="200" height="250" />
 </p>
 
 I build practical AI systems that actually get used. Lately I’ve been working on automation tools and LLM workflows that turn messy, manual processes into something fast and repeatable.
