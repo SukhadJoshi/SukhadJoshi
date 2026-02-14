@@ -37,8 +37,6 @@ I build practical AI systems that actually get used. Lately I’ve been working 
 <p>
   <img alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
   <img alt="NLP" src="https://img.shields.io/badge/NLP-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" />
-  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img alt="Explainable AI" src="https://img.shields.io/badge/Explainable%20AI-6A5ACD?style=for-the-badge&logo=probot&logoColor=white" />
   <img alt="LLMs" src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=white" />
   <img alt="LangChain" src="https://img.shields.io/badge/LangChain-2B2B2B?style=for-the-badge&logo=chainlink&logoColor=white" />
 </p>
