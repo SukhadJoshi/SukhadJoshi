@@ -3,12 +3,12 @@
 Applied ML • Research • ML Systems and Automation
 </p>
 
-<p align="center">
-  <a href="https://sukhadjoshi.github.io/">Portfolio</a> •
+<p align="center"> 
   <a href="https://www.linkedin.com/in/sukhadjoshi/">LinkedIn</a> •
-  <a href="https://ar5iv.org/abs/2601.07801">Manuscript Publication</a> •
+  <a href="https://ar5iv.org/abs/2601.07801](https://opg.optica.org/oe/fulltext.cfm?uri=oe-34-5-9073">Publication</a> •
   <a href="mailto:joshi.sukhad22@gmail.com">Email</a> •
-  <a href="https://github.com/SukhadJoshi">GitHub</a>
+  <a href="https://github.com/SukhadJoshi">GitHub</a> •
+  <a href="https://sukhadjoshi.github.io/">Portfolio</a>
 </p>
 
 <p align="center">
